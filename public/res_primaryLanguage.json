@@ -1,7 +1,7 @@
 {
     "basic_info": {
-      "description_header": "Hi",
-      "description": "👋 I'm Ursula Lopez. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description_header": "Hello, and Welcome to My Portfolio!",
+      "description": "My early life was defined by two main factors: Taking things apart to see how they work and then trying to put them back together. This lead me to gravitate towards certain classes in school, Engineering, Robotics, and eventually Coding. It was in coding class that these two factors really came together and work towards a common goal. My time spent coding would be spent in equal parts building the code and then trying to break it back down trying to see how it could made it better. After spending a couple formative years in a starting job, I started to pursue a new goal and attended Code Fellows.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
