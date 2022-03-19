@@ -16,7 +16,12 @@ html {
 }
 
 .title-container {
-	height: 50px;
+	height: max-content;
+	background-color: #7851A9;
+	margin: auto;
+	width: max-content;
+	font-size: 1vw;
+	
 }
 
 .title-styles {
@@ -38,7 +43,7 @@ header {
 	-webkit-background-size: cover;
 	text-align: center;
 	overflow: hidden;
-	background-color: #e9d5a1;
+	background-image: url(../public/images/IMG_20180316_192144371.jpg);
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -86,7 +91,7 @@ header .nav {
 
 .language {
 	font-size: 25px;
-	background-color: #e9d5a1;
+	background-color: #7851A9;
 	padding-bottom: 10px;
 	padding-top: 80px;
 }
@@ -106,7 +111,7 @@ header h1 {
 }
 
 .slider-tab {
-	background-color: #D7CAAA;
+	background-color: #7851A9;
 	height: 25px;
 }
 
@@ -120,7 +125,7 @@ header h1 {
 }
 
 #about {
-	background: #fff;
+	background: #81A851;
 	overflow: hidden;
 }
 
@@ -139,7 +144,7 @@ header h1 {
 }
 
 .foto div {
-	background: #ffffff;
+	background: #c79222;
 	display: inline-block;
 	margin: 0 auto 5% auto;
 	padding: 10px 10px 5px;
@@ -188,7 +193,7 @@ header h1 {
 }
 
 .polaroid span {
-	background: #ffffff;
+	background: #c79222;
 	display: inline-block;
 	margin: 55px 75px 30px;
 	padding: 15px 15px 30px;
@@ -218,7 +223,7 @@ header h1 {
 
 #preview {
 	width: 500px;
-	background-color: #ebeaf5;
+	background-color: #c79222;
 	padding: 15px;
 	position: relative;
 	margin-bottom: 15%;
@@ -231,7 +236,7 @@ header h1 {
 }
 
 #resume {
-	background: #efe1bd;
+	background: #81A851;
 }
 
 .experience-icon {
@@ -245,7 +250,7 @@ header h1 {
 	text-align: left !important;
 	padding: 5px 8px 5px 8px !important;
 	vertical-align: baseline;
-	background-color: #AE944F !important;
+	background-color: #c79222 !important;
 	color: white;
 	font-weight: lighter !important;
 	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -256,7 +261,7 @@ header h1 {
 	text-align: left !important;
 	padding: 5px 8px 5px 8px !important;
 	vertical-align: baseline;
-	background-color: #f9f5e9 !important;
+	background-color: #c79222 !important;
 	color: black;
 	font-weight: lighter !important;
 	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -353,7 +358,7 @@ header h1 {
 }
 
 #portfolio {
-	background: #efe1bd;
+	background: #81A851;
 	padding-bottom: 5%;
 }
 
