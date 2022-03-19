@@ -11,36 +11,36 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "MadLibs Generator",
+        "startDate": "2022",
+        "description": "This was my Final Project for my 201 Course that I worked on with a team that takes in user input and returns a story in the MadLibs format in one of four genres.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/madlibs-generator/pexels-pixabay-99562.jpg",
+          "images/portfolio/madlibs-generator/pexels-pixabay-261763.jpg"
         ],
-        "url": "",
+        "url": "https://team-beverly-hills.github.io/word-game-app/",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-html5-plain",
+            "name": "HTML"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-css3-plain",
+            "name": "CSS"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           }
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "title": "BusMall",
+        "startDate": "2022",
+        "description": "A website that takes in user input of a number between 1-9 and displays that many images that when one is clicked on, it re-renders the images with no consecutive duplicate images and once done displays a graph of the number of times an image was seen and clicked on and the data persists in local storage.",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/Bus-Mall/pexels-freestocksorg-818650.jpg",
+          "images/portfolio/Bus-Mall/pexels-emirkhan-bal-953864.jpg"
         ],
         "url": "https://github.com",
         "technologies": [
@@ -55,26 +55,26 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "301 Final Project Placeholder",
+        "startDate": "2022",
+        "description": "",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "https://via.placeholder.com/300",
+          "https://via.placeholder.com/300"
         ],
-        "url": "https://github.com",
+        "url": "",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "",
+            "name": ""
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "",
+            "name": ""
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "",
+            "name": ""
           }
         ]
       }
